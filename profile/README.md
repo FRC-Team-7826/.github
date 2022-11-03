@@ -1,6 +1,13 @@
-## Hi there 👋
+## Welcome to our github!
 
-Oh hey, we have a github organization now. We're getting serious.
+# Programmers
+@Pangolian
+@SuperBoyne
+@Jetvac2
+
+# Mentors
+@manfart2021
+@Megabuilder2001
 
 <!--
 
