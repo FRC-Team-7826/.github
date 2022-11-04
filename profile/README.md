@@ -1,13 +1,13 @@
 # Welcome to our github!
 
 ## Programmers
-[Pangolian](github.com/Pangolian)
-[SuperBoyne](github.com/SuperBoyne)
-[Jetvac2](github.com/Jetvac2)
+[Pangolian](https://github.com/Pangolian/)
+[SuperBoyne](https://github.com/SuperBoyne/)
+[Jetvac2](https://github.com/Jetvac2/)
 
 ## Mentors
-[manfart2021](github.com/manfart2021)
-[Megabuilder2001](github.com/Megabuilder2001)
+[manfart2021](https://github.com/manfart2021/)
+[Megabuilder2001](https://github.com/Megabuilder2001/)
 
 <!--
 
