@@ -4,6 +4,8 @@
 [Pangolian](https://github.com/Pangolian/)
 [SuperBoyne](https://github.com/SuperBoyne/)
 [Jetvac2](https://github.com/Jetvac2/)
+[Aeris-Owl](https://github.com/Aeris-Owl)
+[Benja~](https://github.com/bf0716)
 
 ## Mentors
 [manfart2021](https://github.com/manfart2021/)
