@@ -7,10 +7,6 @@
 [Aeris-Owl](https://github.com/Aeris-Owl)
 [B](https://github.com/bf0716)
 
-## Mentors
-[manfart2021](https://github.com/manfart2021/)
-[Megabuilder2001](https://github.com/Megabuilder2001/)
-
 <!--
 
 **Here are some ideas to get you started:**
